@@ -10,14 +10,14 @@ der IDPA in der dritten Klasse.
 ## Absicht
 
 Ich will, dass Sie
-* in einer ersten Phase die Aufgabe in Teilaufgaben zerlegen,
-* in einer zweiten Phase die Sprintplanung durchführen sowie
-* in einer dritten Phase damit beginnen, die Aufgaben des Sprint Backlogs zu
-  bearbeiten.
+* in einer ersten Phase Userstorys formulieren,
+* in einer zweiten Phase die Sprintplanung für den ersten Sprint durchführen sowie
+* in einer dritten Phase damit beginnen, die Aufgaben des Sprint-Backlogs abzuarbeiten.
 
 ## Auftrag
 
-Führen Sie das Scrum Board im Repository Ihres Teams.
+Erstellen Sie eine illustrierte Zusammenfassung der bisherigen Inhalte zum Thema
+Organisation und Projektmanagement.
 
 ## Besondere Anordnungen
 
