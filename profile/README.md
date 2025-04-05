@@ -21,12 +21,17 @@ Organisation und Projektmanagement.
 
 ## Besondere Anordnungen
 
-* Das zugewiesene Repository kann wahlweise lokal geklont werden oder in einem
-  Codespace bearbeitet werden.
-* Die Aufgaben sind nach dem aktuellen Stand des der Arbeit der richtigen Spalte
-  des Boards zuzuordnen.
-* Die erledigten Aufgaben sind in der Spalte "To be Controlled" mir zuzuweisen.
+* Der Sprint endet mit der Lektion vom Donnerstag, 10. April 25.
+* Die Gruppeneinteilung ist zufällig. Sie wurden einem von vier 
+  Repositories zugewiesen.
+* Ich bin Prduct Owner in jeder Gruppe.
+* Einer aus der Gruppe wird als Scrum Master eingesetzt.
+* Gearbeitet wird grundsätzlich im `dev` Branch.
+* Das Team einigt sich auf allfällige Arbeitsbranches auf `dev`.
+* Das Produktinkrement (Stand der Arbeiten am Donnerstag) ist am Donnerstag
+  via PullRequest (Product Owner als Asignee einsetzen) abzugeben.
 
 ## Erreichbarkeit
 
-Für Fragen stehe ich Ihnen direkt zur Verfügung.
+Für die Kommunikation sind die von GitHub zur Verfügung gestellen
+Instrumente zu nutzen.
