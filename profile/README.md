@@ -2,10 +2,10 @@
 
 ## Orientierung
 
-Die vorliegende Aufgabe dient einer ersten Kontaktnahme mit der Projektarbeit
-nach Scrum. Als Trainingsaufgabe soll jedes Team mit TikZ ein Flussdiagramm
-erstellen, welches die Aufnahme an die IMS bis zum Abschluss der Probezeit
-darstellt. 
+Mit der vorliegenden Aufgabe soll ein Teil der Möglichkeiten, welche GitHub
+für die Arbeit nach Scrum zur Verfügung stellt, ausprobiert werden. Dies dient
+nicht zuletzt der Vorbereitung für die Projektarbeiten im kommenden Semester und
+der IDPA in der dritten Klasse. 
 
 ## Absicht
 
