@@ -26,6 +26,7 @@ Organisation und Projektmanagement.
   Repositories zugewiesen.
 * Ich bin Prduct Owner in jeder Gruppe.
 * Einer aus der Gruppe wird als Scrum Master eingesetzt.
+* Das dem Repository zugeordnete GitHub Project dient als Scrum Board.
 * Gearbeitet wird grundsätzlich im `dev` Branch.
 * Das Team einigt sich auf allfällige Arbeitsbranches auf `dev`.
 * Das Produktinkrement (Stand der Arbeiten am Donnerstag) ist am Donnerstag
